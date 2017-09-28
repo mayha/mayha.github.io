@@ -42,4 +42,5 @@ p {
 .footer {
   background: dimgray;
   font-size: 11px;
+  text-align: left;
 }
