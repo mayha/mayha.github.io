@@ -19,6 +19,19 @@
 
 }
 
+.image-content {
+  background: url('file:///E:/mayha.github.io/MyTimes/resources/images/img-story-main.png');
+
+}
+
+.image-content-story1 {
+  background: url('file:///E:/mayha.github.io/MyTimes/resources/images/img-story-1.png');
+}
+
+.image-content-story2 {
+  background: url('file:///E:/mayha.github.io/MyTimes/resources/images/img-story-2.png');
+}
+
 div {
   border: 1px solid black;
 }
