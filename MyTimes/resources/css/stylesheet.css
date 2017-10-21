@@ -19,17 +19,17 @@
 
 }
 
-.image-content {
-  background: url('file:///E:/mayha.github.io/MyTimes/resources/images/img-story-main.png');
+.main.story .image-content {
+  background-image: url('file:///E:/mayha.github.io/MyTimes/resources/images/img-story-main.png');
 
 }
 
-.image-content-story1 {
-  background: url('file:///E:/mayha.github.io/MyTimes/resources/images/img-story-1.png');
+.story1 .image-content {
+  background-image: url('file:///E:/mayha.github.io/MyTimes/resources/images/img-story-1.png');
 }
 
-.image-content-story2 {
-  background: url('file:///E:/mayha.github.io/MyTimes/resources/images/img-story-2.png');
+.story2 .image-content {
+  background-image: url('file:///E:/mayha.github.io/MyTimes/resources/images/img-story-2.png');
 }
 
 div {
