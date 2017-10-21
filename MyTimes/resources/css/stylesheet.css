@@ -11,7 +11,15 @@
   width: 100%;
   border-bottom: 1px solid;
   padding-bottom: 10px;
+  z-index: 1;
+  background: white;
+  height: 80px;
 
+
+}
+
+div {
+  border: 1px solid black;
 }
 
 .logo {
@@ -37,4 +45,30 @@ nav span {
 
 a {
   color: black;
+}
+
+.content {
+  display: flex;
+  padding-top: 116px;
+  justify-content: space-between;
+  width: 1232px;
+  margin: auto auto;
+}
+
+.column.large {
+  display: flex;
+  width: 630px;
+  display: inline;
+}
+
+.column.medium {
+  display: flex;
+  width: 300px;
+  display: inline;
+}
+
+.column.small {
+  display: flex;
+  width: 240px;
+  display: inline;
 }
