@@ -18,11 +18,11 @@ div {
   justify-content: center;
   align-items: center;
   z-index: 1;
+  display: inline;
 }
 
 .logo {
   padding-left: 10px;
-  display: inline-block;
 
 }
 
@@ -31,9 +31,9 @@ img {
 }
 
  nav {
-   justify-content: center;
-   display: inline-block;
+   justify-content: flex-end;
    flex-grow: 1;
+
  }
 
 nav span {
