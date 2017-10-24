@@ -7,22 +7,24 @@ body {
 }
 
 div {
-  border: 1px solid seashell;
+
 }
 
 .header {
   height: 69px;
+  width: 100%;
   position: fixed;
   display: flex;
-  border-bottom: 1px solid seashell;
   justify-content: center;
   align-items: center;
   z-index: 1;
-  display: inline;
+  border-bottom: 1px solid seashell;
+
 }
 
 .logo {
   padding-left: 10px;
+  justify-content: flex-start;
 
 }
 
@@ -31,17 +33,17 @@ img {
 }
 
  nav {
-   justify-content: flex-end;
+   text-align: right;
    flex-grow: 1;
+   padding-right: 15px;
 
  }
 
 nav span {
 
   display: inline-block;
-  padding: 20px 10px;
+  padding: 20px 5px;
   flex-grow: 1;
-  text-align: right;
 }
 
 a {
