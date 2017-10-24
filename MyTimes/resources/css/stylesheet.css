@@ -162,7 +162,7 @@ h3 {
   width: 280px;
   display: inline;
   flex-direction: column;
-  
+
 }
 
 
@@ -187,6 +187,7 @@ h3 {
   font-family: Verdana;
   font-size: 12px;
   padding: 30px 30px;
+  width: 100%;
 }
 
 
@@ -198,6 +199,7 @@ h3 {
   color: white;
   border-right: 2px solid white;
   padding: 0px 10px;
+
 }
 
 .footer nav {

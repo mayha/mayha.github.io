@@ -4,6 +4,7 @@ body {
   color: seashell;
   font-size: 22px;
   font-family: Helvetica;
+  margin: 0;
 }
 
 div {
@@ -43,7 +44,6 @@ nav span {
 
   display: inline-block;
   padding: 20px 5px;
-  flex-grow: 1;
 }
 
 a {
