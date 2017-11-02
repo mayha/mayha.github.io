@@ -27,4 +27,71 @@ body {
 
 .logo img {
   height: 1.5rem;
+  padding: 0.66rem 1rem 0.66rem 0.5rem;
+}
+
+.logo span {
+  padding: 0.66rem 0rem 0.66rem 0rem;
+}
+
+.main.banner {
+  height: 25rem;
+  width: 100%;
+  background-image: url('../images/moto.jpeg');
+  background-size: 100% auto;
+  padding-top: 2rem;
+  display: flex;
+  justify-content: center;
+
+}
+
+.textbox {
+  background-color: black;
+  width: 20rem;
+  height: 25%;
+  display: block;
+  margin-top: 7rem;
+  padding: 2rem 3rem;
+}
+
+.textbox p {
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 0.25rem 0rem 0.25rem 0rem;
+
+}
+
+.textbox h1 {
+  padding-top: 0.25rem;
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 2.25rem;
+}
+
+.textbox h1, .textbox p {
+
+}
+
+.main.banner .container {
+  display: flex;
+}
+
+nav {
+  background-color: firebrick;
+  display: flex;
+  justify-content: center;
+
+}
+
+nav .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75em 0;
+  list-style: none;
+}
+
+nav span {
+  display: inline;
+
 }
